@@ -39,3 +39,11 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+footer a{
+  font-size: 24px;
+  color: white;
+}
+footer a: hoover{
+  font-size: 24px;
+  color: white;
+}
